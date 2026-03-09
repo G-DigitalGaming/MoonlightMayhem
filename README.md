@@ -2,7 +2,7 @@
 
   Moonlight Mayhem is a free online social deduction party game inspired by classics like One Night Ultimate Werewolf. One player hosts the game on a TV or shared screen, while everyone else joins from their phones.
 
-  **Play now at [moonlightmayhem.com](https://moonlightmayhem.com)**
+  **Play now at [moonlightmayhem.com](https://moon.gavindraper.com)**
 
   ## Reporting Issues
 
